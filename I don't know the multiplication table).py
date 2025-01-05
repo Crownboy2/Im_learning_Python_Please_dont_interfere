@@ -1,0 +1,6 @@
+print(5+5)
+print(5-5)
+print(5*5)
+print(5/5)
+#print(error+5)
+print("g" + "g")
